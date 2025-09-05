@@ -79,7 +79,7 @@ Abra 3 terminais e execute:
   ```
 - Terminal 2 – Nó de Detecção
   ```bash
-  ros2 run object_finder connecting_and_showing
+  ros2 run object_finder finder
   ```
 - Terminal 3 – Controle de Teleop
   ```bash
@@ -92,4 +92,7 @@ Abra 3 terminais e execute:
   ```
   E selecione o tópico ***processed_image_topic*** para ver as caixas de detecção em tempo real.
 
-  
+  ## 🤝 Contribuição
+
+  Sinta-se à vontade para contribuir
+
